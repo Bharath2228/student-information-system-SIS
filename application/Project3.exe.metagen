@@ -1,0 +1,42 @@
+  Project3.checkpage.resources - Embedded, ContainedInManifestFile, 
+  Project3.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Project3.Print.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project3, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project3.Print: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String s : Public
+    Int32 cl : Public
+    Int32 logout : Public
+  Methods:
+    cred(String, Int32): PrivateScope, Public, HideBySig
+    swap(): PrivateScope, Public, HideBySig
+    setswap(): PrivateScope, Public, HideBySig
+Class Project3.checkpage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String user : Public
+    Int32 pane : Public
+Class Project3.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    SByte h IsSignUnspecifiedByte : Public

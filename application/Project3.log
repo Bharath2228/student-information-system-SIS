@@ -1,0 +1,14 @@
+﻿  checkpage.cpp
+  MyForm.cpp
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(638,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(645,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(651,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(660,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(668,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.h(674,7): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Print.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  checkpage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.exe

@@ -1,0 +1,7 @@
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.vcxproj.AssemblyReference.cache
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.checkpage.resources
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.MyForm.resources
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.Print.resources
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.vcxproj.GenerateResource.cache
+C:\Users\ashwi\Documents\PROPER VISUAL FILE\Project3\x64\Release\Project3.exe
